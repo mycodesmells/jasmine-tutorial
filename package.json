@@ -1,0 +1,16 @@
+{
+  "name": "jasmine-tutorial",
+  "version": "1.0.0",
+  "description": "Simple showcase of Jasmine testing tool capabilities.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "pawelslomka <pawelslomka@motivate.pl>",
+  "devDependencies": {
+    "jasmine": "^2.3.2"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
