@@ -2,7 +2,7 @@ var greeting = require('./../../server/basic/greeting');
 
 describe('greeting', function () {
 
-    it('returns a greeting with given name', function () {
+    fit('returns a greeting with given name', function () {
         var message = greeting('Reader');
 
         expect(message).toEqual('Howdy Reader, I\'m a teapot!');

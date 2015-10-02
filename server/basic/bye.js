@@ -1,7 +1,7 @@
 module.exports = function (name) {
     var _name = name || '';
-    var prefix = ("Howdy " + _name).trim();
-    var suffix = ", I'm a teapot!";
+    var prefix = ("Bye " + _name).trim();
+    var suffix = "!";
 
     return prefix + suffix;
 };
