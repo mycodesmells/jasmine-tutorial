@@ -161,4 +161,4 @@ To run one specific test case:
 
 That last one it not vey convenient (you need to copy the test name), but you might use that one day. **Because you can!**
 
-Code 
+Code available at [GitHub repository](https://github.com/mycodesmells/jasmine-tutorial)
