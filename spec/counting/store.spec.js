@@ -1,6 +1,6 @@
 var Store = require('./../../server/counting/store');
 
-fdescribe('store', function() {
+describe('store', function() {
 
     var store;
 
